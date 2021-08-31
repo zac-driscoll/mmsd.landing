@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "R Markdown - Landing Page "
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "2021"
       href: pages21.html
