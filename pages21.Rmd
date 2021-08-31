@@ -1,0 +1,13 @@
+---
+title: "2021 R Markdown Analyses"
+---
+
+<h3> Oak Creek Site Selection </h3><br>
+<h2> Description:</h2><br>
+<h1> This project seeks to identify redundancies between water quality 
+monitoring sites on the Oak Creek. Based on the results of this analysis, 
+one site will be dropped from the program.  A new site will be added to 
+the program in 2022.</h1>
+<h2> Project Link: </h2> 
+<a href="https://zac-driscoll.github.io/oc_analysis/index.html"> 
+Oak Creek Analysis </a>

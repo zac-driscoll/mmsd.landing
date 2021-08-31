@@ -1,0 +1,11 @@
+name: "mmsd.landing"
+output_dir: "."
+navbar:
+  title: "R Markdown - Landing Page "
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "2021"
+      href: pages21.html
+
+
